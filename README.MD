@@ -4,7 +4,7 @@
 
 Extract and analyze website traffic and performance data from the Maven Fuzzy Factory database to quantify the company’s growth, and to tell the story of how you have been able to generate that growth. As an Analyst, the first part of your job is extracting and analyzing the data, and the next part of your job is effectively communicating the story to your stakeholders..<br>
 
-<b> FINAL COURSE PROJECT QUESTIONS : <br></b
+<b> FINAL COURSE PROJECT QUESTIONS : <br></b>
 
 <i>1 - Gsearch seems to be the biggest driver of our business. Could you pull monthly trends for gsearch sessions and orders so that we can showcase the growth there? <br></i>
 
